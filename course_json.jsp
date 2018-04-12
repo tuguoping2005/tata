@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>我不是真正的慕课网hah</title>
+<title>我不是真正的慕课网</title>
 <link rel="stylesheet"
 	href="<%=request.getContextPath()%>/resources/css/main.css"
 	type="text/css" />
